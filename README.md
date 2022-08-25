@@ -1,0 +1,1 @@
+This is a sample website project I did while learning HTML and CSS!
